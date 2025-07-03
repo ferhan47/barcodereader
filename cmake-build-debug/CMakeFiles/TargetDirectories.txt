@@ -1,0 +1,3 @@
+/Users/ferhan/CLionProjects/advancebarcode/cmake-build-debug/CMakeFiles/advancebarcode.dir
+/Users/ferhan/CLionProjects/advancebarcode/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/ferhan/CLionProjects/advancebarcode/cmake-build-debug/CMakeFiles/rebuild_cache.dir
